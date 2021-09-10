@@ -10,11 +10,11 @@ namespace figurisimeni
             Sortirovka sortirovka = new Sortirovka(); // объявляю класс
             Console.WriteLine("Введите что-нибудь");
            Name = Console.ReadLine();
-            Name = "1"; 
+           
             Console.WriteLine("Сколько символов нужно?");
             Console.WriteLine("Если вы хотите превратить в рисунок слово впишите 1");
            countsimv =Convert.ToInt32(Console.ReadLine());
-            countsimv = 20; 
+          
            
             int chois;
             Console.WriteLine("Какой Узор предпочитаете?");
