@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "figurisimeni", "figurisimeni\figurisimeni.csproj", "{120A0C9C-B4CE-4797-95E9-972C0B3A4330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120A0C9C-B4CE-4797-95E9-972C0B3A4330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120A0C9C-B4CE-4797-95E9-972C0B3A4330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120A0C9C-B4CE-4797-95E9-972C0B3A4330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120A0C9C-B4CE-4797-95E9-972C0B3A4330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D719D5-F0EA-41EB-8F97-6EDE1910208F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\777\source\repos\figurisimeni\figurisimeni\bin\Debug\netcoreapp3.1\figurisimeni.exe
+C:\Users\777\source\repos\figurisimeni\figurisimeni\bin\Debug\netcoreapp3.1\figurisimeni.deps.json
+C:\Users\777\source\repos\figurisimeni\figurisimeni\bin\Debug\netcoreapp3.1\figurisimeni.runtimeconfig.json
+C:\Users\777\source\repos\figurisimeni\figurisimeni\bin\Debug\netcoreapp3.1\figurisimeni.runtimeconfig.dev.json
+C:\Users\777\source\repos\figurisimeni\figurisimeni\bin\Debug\netcoreapp3.1\figurisimeni.dll
+C:\Users\777\source\repos\figurisimeni\figurisimeni\bin\Debug\netcoreapp3.1\figurisimeni.pdb
+C:\Users\777\source\repos\figurisimeni\figurisimeni\obj\Debug\netcoreapp3.1\figurisimeni.csproj.AssemblyReference.cache
+C:\Users\777\source\repos\figurisimeni\figurisimeni\obj\Debug\netcoreapp3.1\figurisimeni.AssemblyInfoInputs.cache
+C:\Users\777\source\repos\figurisimeni\figurisimeni\obj\Debug\netcoreapp3.1\figurisimeni.AssemblyInfo.cs
+C:\Users\777\source\repos\figurisimeni\figurisimeni\obj\Debug\netcoreapp3.1\figurisimeni.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\figurisimeni\figurisimeni\obj\Debug\netcoreapp3.1\figurisimeni.dll
+C:\Users\777\source\repos\figurisimeni\figurisimeni\obj\Debug\netcoreapp3.1\figurisimeni.pdb
+C:\Users\777\source\repos\figurisimeni\figurisimeni\obj\Debug\netcoreapp3.1\figurisimeni.genruntimeconfig.cache
