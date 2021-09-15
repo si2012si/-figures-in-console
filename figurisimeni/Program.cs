@@ -22,7 +22,7 @@ namespace figurisimeni
             Console.WriteLine("2. Пирамида");
             Console.WriteLine("3. Ромб");
             Console.WriteLine("4. Ромб Инверсия");
-            Console.WriteLine("5. ");
+            Console.WriteLine("5. всё и сразу ");
             Console.WriteLine("6. ");
             chois =Convert.ToInt32(Console.ReadLine()); 
             Console.Clear();
@@ -60,9 +60,23 @@ namespace figurisimeni
                     else
                         sortirovka.RombInvers(new string(Convert.ToChar(Name), countsimv));
                         break;
-                default:
-                    sortirovka.LeftPiramid(Name);
-                    Console.ReadLine();
+                case 5:
+                    if (countsimv == 1)
+                    { sortirovka.LeftPiramid(Name);
+                        sortirovka.Piramid(Name);
+                        sortirovka.Romb(Name);
+                        sortirovka.RombInvers(Name);
+                    }
+                    else
+                    {
+                        sortirovka.LeftPiramid(new string(Convert.ToChar(Name), countsimv));
+                        sortirovka.Piramid(new string(Convert.ToChar(Name), countsimv));
+                        sortirovka.Romb(new string(Convert.ToChar(Name), countsimv));
+                        sortirovka.RombInvers(new string(Convert.ToChar(Name), countsimv));
+                    }
+                        break;
+                case 6:
+                    sortirovka.Elochka(new string(Convert.ToChar(Name), countsimv));
                     break;
             }
             sortirovka.LeftPiramid(Name);
